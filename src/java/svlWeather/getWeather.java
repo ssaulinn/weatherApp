@@ -14,8 +14,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import services.serviceWeather;
-import sun.util.logging.PlatformLogger;
-
 /**
  *
  * @author Saul Jimenez
